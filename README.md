@@ -1,14 +1,10 @@
-This repository contains a simple C program for managing student attendance. The program allows you to perform various operations including adding students, displaying attendance, generating warning letters, and more.
+This repository contains a straightforward C program designed to facilitate the management of student attendance. This program offers a range of functionalities, including the addition of students, the display of attendance records, the generation of warning letters, and more.
 
-
-
-
-
-**Features**
-1.User-friendly Interface: The program provides an intuitive menu-based interface for easy navigation.
-2.Admin and Student Login: Supports both admin and student login for secure access to the system.
-3.Add Students: Admins can add students by providing their name, PRN, total lectures, and days attended.
-4.Display Attendance: View a list of students along with their PRN and attendance percentage.
-5.Generate Warning Letters: Automatically generate warning letters for students with attendance below 75%.
-6.Edit Attendance: Admins can edit a student's attendance record.
-7.Display Statistics: View total students, total attendance, and average attendance.
+**Key Features**
+Intuitive User Interface: The program boasts a user-friendly menu-driven interface for effortless navigation.
+Secure Login System: It supports both admin and student logins, ensuring secure access to the system.
+Student Addition: Administrators have the ability to include students by furnishing their names, PRN (Personal Registration Number), total lectures, and days attended.
+Attendance Display: This feature allows users to view a comprehensive list of students, complete with their PRN and attendance percentages.
+Warning Letter Generation: The program can automatically generate warning letters for students whose attendance falls below 75%.
+Attendance Editing: Administrators are empowered to modify a student's attendance records as necessary.
+Statistical Insights: Users can access vital statistics such as the total number of students, overall attendance, and average attendance.
